@@ -1,3 +1,2 @@
 # homepage
-My first personal website. Basically this is just a résumé.
-🧙Hocus-pocus!
+My first personal website. Basically this is just a résumé.git add README.md 
